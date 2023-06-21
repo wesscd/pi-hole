@@ -1,0 +1,12 @@
+# Spam Block
+# Version: 1.0
+# Ultimo update - 21-06-2023
+# Homepage: 
+# Prezados,
+# Essa black list foi criada a partir de e-mails com phishing, onde coleto os dominios e os insiro logo abaixo.
+
+# ============= SITES de Phishing =============
+0.0.0.0 blob.core.windows.net
+0.0.0.0 854724.blob.core.windows.net
+0.0.0.0 pontosresgatehoje.z5.web.core.windows.net/
+0.0.0.0 vps37429.publiccloud.com.br
