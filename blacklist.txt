@@ -10,3 +10,4 @@
 0.0.0.0 854724.blob.core.windows.net
 0.0.0.0 pontosresgatehoje.z5.web.core.windows.net/
 0.0.0.0 vps37429.publiccloud.com.br
+0.0.0.0 202.34.109.208.host.secureserver.net/red.php
